@@ -1,0 +1,10 @@
+# Composer #
+vendor
+composer.lock
+
+# Configuration #
+config.php
+
+# IDE #
+.idea
+

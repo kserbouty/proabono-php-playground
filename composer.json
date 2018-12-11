@@ -1,0 +1,5 @@
+{
+  "require": {
+    "proabono/proabono-php": "dev-master"
+  }
+}
